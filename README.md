@@ -1,2 +1,6 @@
 # learngit
-main
+<<<<<<< HEAD
+Feature1
+=======
+feature1
+>>>>>>> feature1
